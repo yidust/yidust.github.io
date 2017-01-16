@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2017/01/01/go-%E5%AF%BC%E8%88%AA/</loc>
+    
+    <lastmod>2017-01-16T14:15:05.538Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/01/08/sublime%20Text%203%E6%90%AD%E5%BB%BAGO%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</loc>
+    
+    <lastmod>2017-01-16T14:14:14.269Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/01/02/Visual%20Studio%20Code%E4%B8%AD%E9%85%8D%E7%BD%AEGO%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</loc>
+    
+    <lastmod>2017-01-16T14:11:33.345Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/01/08/go%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/</loc>
+    
+    <lastmod>2017-01-16T14:10:44.931Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/tags/index.html</loc>
     
     <lastmod>2017-01-16T12:26:48.081Z</lastmod>
@@ -23,44 +51,9 @@
   </url>
   
   <url>
-    <loc>http://yoursite.com/2017/01/08/golang-basis/</loc>
-    
-    <lastmod>2017-01-09T12:57:30.532Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/01/08/golang-ide/</loc>
-    
-    <lastmod>2017-01-09T04:49:45.038Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/01/02/vscode-tutorial/</loc>
-    
-    <lastmod>2017-01-09T03:14:47.038Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/01/01/golang-navigation/</loc>
-    
-    <lastmod>2017-01-09T03:12:25.308Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2016/12/25/golang-install-config/</loc>
+    <loc>http://yoursite.com/2016/12/25/GO%E8%AF%AD%E8%A8%80%E5%AE%89%E8%A3%85%E5%92%8C%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</loc>
     
     <lastmod>2017-01-09T03:11:56.412Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2016/12/25/markdown/</loc>
-    
-    <lastmod>2016-12-25T10:17:13.749Z</lastmod>
     
   </url>
   

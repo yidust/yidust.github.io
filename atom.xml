@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-09T04:49:45.038Z</updated>
+  <updated>2017-01-16T14:10:44.931Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,73 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>golang-ide</title>
-    <link href="http://yoursite.com/2017/01/08/golang-ide/"/>
-    <id>http://yoursite.com/2017/01/08/golang-ide/</id>
-    <published>2017-01-08T12:19:28.000Z</published>
-    <updated>2017-01-09T04:49:45.038Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="sublime-Text-3搭建GO开发环境"><a href="#sublime-Text-3搭建GO开发环境" class="headerlink" title="sublime Text 3搭建GO开发环境"></a>sublime Text 3搭建GO开发环境</h3><h4 id="首先是安装go"><a href="#首先是安装go" class="headerlink" title="首先是安装go"></a>首先是安装go</h4><hr>
-<ul>
-<li>golang官网下载地址：<a href="https://golang.org/dl/" target="_blank" rel="external">https://golang.org/dl/</a></li>
-<li>国内golang下载地址：<a href="http://golangtc.com/download" target="_blank" rel="external">http://golangtc.com/download</a></li>
-<li><strong>注意：以上请选择对应的版本进行下载，如：windows-64位 则，选择：windows-amd64.msi<br>如果是32位系统，则选择：windows-386.msi</strong></li>
-</ul>
-<h4 id="下载，安装，配置sublime-Text-3"><a href="#下载，安装，配置sublime-Text-3" class="headerlink" title="下载，安装，配置sublime Text 3"></a>下载，安装，配置sublime Text 3</h4><hr>
-<ol>
-<li>下载 Sublime Text 3,地址：<a href="http://www.sublimetext.com/" target="_blank" rel="external">http://www.sublimetext.com/</a></li>
-<li>下载好后，右键解压后，进入到Sublime Text3目录，双击sublime_text.exe 运行。就可以使用了。</li>
-<li>安装Package Control，在打开 Sublime Text 2以后，按下快捷键 Ctrl + `，打开命令窗行，｀这个按键在Tab键的上面，我刚开始还没找到，呵呵。输入以下内容，并回车：</li>
-</ol>
-<hr>
-<pre><code>import urllib.request,os; pf = &apos;Package Control.sublime-package&apos;; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), &apos;wb&apos;).write(urllib.request.urlopen( &apos;http://sublime.wbond.net/&apos; + pf.replace(&apos; &apos;,&apos;%20&apos;)).read())
-</code></pre><hr>
-<ol>
-<li>安装完成后，重启Sublime Text 3后，就可以发现在 Preferences菜单下，多出一个菜单项 Package Control。</li>
-<li>现在可以安装Gosublime插件了，按住Ctrl+Shilft+p会弹出一个对话框<img src="http://oihhszlnu.bkt.clouddn.com/gosublime/png/BVD%5D%25G0%29EVMBX6J26CSODJC.png" alt="Ctrl+Shilft+p"></li>
-<li>输入install回车弹出一个安装包的对话框.<img src="http://oihhszlnu.bkt.clouddn.com/gosublime/png/I$%7BEEJZ5C~W@PU%5B7L$QQCTP.png" alt="install"></li>
-<li>输入GoSublime选择GoSublime回车<br>ok，GoSublime安装完成。<h4 id="下载安装gocode"><a href="#下载安装gocode" class="headerlink" title="下载安装gocode"></a>下载安装gocode</h4></li>
-</ol>
-<hr>
-<ol>
-<li>下载安装gocode</li>
-</ol>
-<p>可以去github下载<a href="https://github.com/nsf/gocode.git（要安装google的git版本管理工具）,配置git环境变量：;C:\Program" target="_blank" rel="external">https://github.com/nsf/gocode.git（要安装google的git版本管理工具）,配置git环境变量：;C:\Program</a> Files\Git\bin;C:\Program Files\Git\libexec\git-core;</p>
-<p>打开控制台，输入以下内容：</p>
-<p>　　　　go get -u github.com/nsf/gocode</p>
-<p>　　　　go install github.com/nsf/gocode</p>
-<p>　　安装完成后，我们可以在 go/bin 目录下，发现多出了个 gocode 文件。（一定要放在bin目录下）</p>
-<ol>
-<li>修改GoSublime配置：在 Preferences菜单下，找到Package Settings，然后找到 GoSublime，再往下找到 Settings - Default。再打开的文件中，添加如下配置，并保存：<br><img src="http://images.cnitblog.com/blog/83792/201303/01113953-00765a6f242a431b9c738d2d6eb5aaab.png" alt="settings"></li>
-</ol>
-<p>好了，到目前为止，开发环境搭建完成。</p>
-<h3 id="sublime-text3的一些基本插件"><a href="#sublime-text3的一些基本插件" class="headerlink" title="sublime text3的一些基本插件"></a>sublime text3的一些基本插件</h3><h4 id="中文输入法的问题"><a href="#中文输入法的问题" class="headerlink" title="中文输入法的问题"></a>中文输入法的问题</h4><p>从Sublime Text的初版（1.0）到现在（3.0 3065），中文输入法（包括日文输入法）都有一个问题：输入框不跟随。<br>需要安装    ‘IMESupport’插件，之后重启Sbulime Text问题就解决了。</p>
-<h3 id="左侧文件夹"><a href="#左侧文件夹" class="headerlink" title="左侧文件夹"></a>左侧文件夹</h3><p>Sublime Text支持以文件为单位进行编辑，这个在编辑一个文件夹下的代码时，尤其有用。在’file’下’open Folder’:<br>你会发现左侧多了一个侧栏，这个侧栏列出了当前打开的文件和文件夹，使用’Ctrl + K,Ctrl + B’显示或者隐藏侧栏，使用’Ctrl + P’快速跳转到文件夹里的文件。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;sublime-Text-3搭建GO开发环境&quot;&gt;&lt;a href=&quot;#sublime-Text-3搭建GO开发环境&quot; class=&quot;headerlink&quot; title=&quot;sublime Text 3搭建GO开发环境&quot;&gt;&lt;/a&gt;sublime Text 3搭建GO开发
-    
-    </summary>
-    
-      <category term="工具" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7/"/>
-    
-      <category term="IDE" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7/IDE/"/>
-    
-    
-      <category term="golang-IDE" scheme="http://yoursite.com/tags/golang-IDE/"/>
-    
-      <category term="go-IDE" scheme="http://yoursite.com/tags/go-IDE/"/>
-    
-  </entry>
-  
-  <entry>
     <title>go语言基础</title>
-    <link href="http://yoursite.com/2017/01/08/golang-basis/"/>
-    <id>http://yoursite.com/2017/01/08/golang-basis/</id>
+    <link href="http://yoursite.com/2017/01/08/go%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
+    <id>http://yoursite.com/2017/01/08/go语言基础/</id>
     <published>2017-01-08T12:19:28.000Z</published>
-    <updated>2017-01-09T12:57:30.532Z</updated>
+    <updated>2017-01-16T14:10:44.931Z</updated>
     
     <content type="html"><![CDATA[<h3 id="go程序的一般结构"><a href="#go程序的一般结构" class="headerlink" title="go程序的一般结构"></a>go程序的一般结构</h3><ul>
 <li>go程序是通过<strong>package</strong>来组织的</li>
@@ -178,23 +116,83 @@
     
     </summary>
     
-      <category term="编程语言" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+      <category term="技术" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="go语言" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/go%E8%AF%AD%E8%A8%80/"/>
+      <category term="编程语言" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="go语言" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/go%E8%AF%AD%E8%A8%80/"/>
     
     
       <category term="golang-basis" scheme="http://yoursite.com/tags/golang-basis/"/>
     
-      <category term="go-basis" scheme="http://yoursite.com/tags/go-basis/"/>
+  </entry>
+  
+  <entry>
+    <title>sublime Text 3搭建GO开发环境</title>
+    <link href="http://yoursite.com/2017/01/08/sublime%20Text%203%E6%90%AD%E5%BB%BAGO%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
+    <id>http://yoursite.com/2017/01/08/sublime Text 3搭建GO开发环境/</id>
+    <published>2017-01-08T12:19:28.000Z</published>
+    <updated>2017-01-16T14:14:14.269Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="sublime-Text-3搭建GO开发环境"><a href="#sublime-Text-3搭建GO开发环境" class="headerlink" title="sublime Text 3搭建GO开发环境"></a>sublime Text 3搭建GO开发环境</h3><h4 id="首先是安装go"><a href="#首先是安装go" class="headerlink" title="首先是安装go"></a>首先是安装go</h4><hr>
+<ul>
+<li>golang官网下载地址：<a href="https://golang.org/dl/" target="_blank" rel="external">https://golang.org/dl/</a></li>
+<li>国内golang下载地址：<a href="http://golangtc.com/download" target="_blank" rel="external">http://golangtc.com/download</a></li>
+<li><strong>注意：以上请选择对应的版本进行下载，如：windows-64位 则，选择：windows-amd64.msi<br>如果是32位系统，则选择：windows-386.msi</strong></li>
+</ul>
+<h4 id="下载，安装，配置sublime-Text-3"><a href="#下载，安装，配置sublime-Text-3" class="headerlink" title="下载，安装，配置sublime Text 3"></a>下载，安装，配置sublime Text 3</h4><hr>
+<ol>
+<li>下载 Sublime Text 3,地址：<a href="http://www.sublimetext.com/" target="_blank" rel="external">http://www.sublimetext.com/</a></li>
+<li>下载好后，右键解压后，进入到Sublime Text3目录，双击sublime_text.exe 运行。就可以使用了。</li>
+<li>安装Package Control，在打开 Sublime Text 2以后，按下快捷键 Ctrl + `，打开命令窗行，｀这个按键在Tab键的上面，我刚开始还没找到，呵呵。输入以下内容，并回车：</li>
+</ol>
+<hr>
+<pre><code>import urllib.request,os; pf = &apos;Package Control.sublime-package&apos;; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), &apos;wb&apos;).write(urllib.request.urlopen( &apos;http://sublime.wbond.net/&apos; + pf.replace(&apos; &apos;,&apos;%20&apos;)).read())
+</code></pre><hr>
+<ol>
+<li>安装完成后，重启Sublime Text 3后，就可以发现在 Preferences菜单下，多出一个菜单项 Package Control。</li>
+<li>现在可以安装Gosublime插件了，按住Ctrl+Shilft+p会弹出一个对话框<img src="http://oihhszlnu.bkt.clouddn.com/gosublime/png/BVD%5D%25G0%29EVMBX6J26CSODJC.png" alt="Ctrl+Shilft+p"></li>
+<li>输入install回车弹出一个安装包的对话框.<img src="http://oihhszlnu.bkt.clouddn.com/gosublime/png/I$%7BEEJZ5C~W@PU%5B7L$QQCTP.png" alt="install"></li>
+<li>输入GoSublime选择GoSublime回车<br>ok，GoSublime安装完成。<h4 id="下载安装gocode"><a href="#下载安装gocode" class="headerlink" title="下载安装gocode"></a>下载安装gocode</h4></li>
+</ol>
+<hr>
+<ol>
+<li>下载安装gocode</li>
+</ol>
+<p>可以去github下载<a href="https://github.com/nsf/gocode.git（要安装google的git版本管理工具）,配置git环境变量：;C:\Program" target="_blank" rel="external">https://github.com/nsf/gocode.git（要安装google的git版本管理工具）,配置git环境变量：;C:\Program</a> Files\Git\bin;C:\Program Files\Git\libexec\git-core;</p>
+<p>打开控制台，输入以下内容：</p>
+<p>　　　　go get -u github.com/nsf/gocode</p>
+<p>　　　　go install github.com/nsf/gocode</p>
+<p>　　安装完成后，我们可以在 go/bin 目录下，发现多出了个 gocode 文件。（一定要放在bin目录下）</p>
+<ol>
+<li>修改GoSublime配置：在 Preferences菜单下，找到Package Settings，然后找到 GoSublime，再往下找到 Settings - Default。再打开的文件中，添加如下配置，并保存：<br><img src="http://images.cnitblog.com/blog/83792/201303/01113953-00765a6f242a431b9c738d2d6eb5aaab.png" alt="settings"></li>
+</ol>
+<p>好了，到目前为止，开发环境搭建完成。</p>
+<h3 id="sublime-text3的一些基本插件"><a href="#sublime-text3的一些基本插件" class="headerlink" title="sublime text3的一些基本插件"></a>sublime text3的一些基本插件</h3><h4 id="中文输入法的问题"><a href="#中文输入法的问题" class="headerlink" title="中文输入法的问题"></a>中文输入法的问题</h4><p>从Sublime Text的初版（1.0）到现在（3.0 3065），中文输入法（包括日文输入法）都有一个问题：输入框不跟随。<br>需要安装    ‘IMESupport’插件，之后重启Sbulime Text问题就解决了。</p>
+<h3 id="左侧文件夹"><a href="#左侧文件夹" class="headerlink" title="左侧文件夹"></a>左侧文件夹</h3><p>Sublime Text支持以文件为单位进行编辑，这个在编辑一个文件夹下的代码时，尤其有用。在’file’下’open Folder’:<br>你会发现左侧多了一个侧栏，这个侧栏列出了当前打开的文件和文件夹，使用’Ctrl + K,Ctrl + B’显示或者隐藏侧栏，使用’Ctrl + P’快速跳转到文件夹里的文件。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;sublime-Text-3搭建GO开发环境&quot;&gt;&lt;a href=&quot;#sublime-Text-3搭建GO开发环境&quot; class=&quot;headerlink&quot; title=&quot;sublime Text 3搭建GO开发环境&quot;&gt;&lt;/a&gt;sublime Text 3搭建GO开发
+    
+    </summary>
+    
+      <category term="其他工具" scheme="http://yoursite.com/categories/%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="IDE" scheme="http://yoursite.com/categories/%E5%85%B6%E4%BB%96%E5%B7%A5%E5%85%B7/IDE/"/>
+    
+    
+      <category term="golang-IDE" scheme="http://yoursite.com/tags/golang-IDE/"/>
     
   </entry>
   
   <entry>
     <title>Visual Studio Code中配置GO开发环境</title>
-    <link href="http://yoursite.com/2017/01/02/vscode-tutorial/"/>
-    <id>http://yoursite.com/2017/01/02/vscode-tutorial/</id>
+    <link href="http://yoursite.com/2017/01/02/Visual%20Studio%20Code%E4%B8%AD%E9%85%8D%E7%BD%AEGO%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
+    <id>http://yoursite.com/2017/01/02/Visual Studio Code中配置GO开发环境/</id>
     <published>2017-01-02T15:50:38.000Z</published>
-    <updated>2017-01-09T03:14:47.038Z</updated>
+    <updated>2017-01-16T14:11:33.345Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Visual-Studio-Code中配置GO开发环境"><a href="#Visual-Studio-Code中配置GO开发环境" class="headerlink" title="Visual Studio Code中配置GO开发环境"></a>Visual Studio Code中配置GO开发环境</h2><hr>
 <p><a href="http://studygolang.com/articles/6204" target="_blank" rel="external">vscode配置go开发环境</a></p>
@@ -207,9 +205,9 @@
     
     </summary>
     
-      <category term="工具" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7/"/>
+      <category term="其它工具" scheme="http://yoursite.com/categories/%E5%85%B6%E5%AE%83%E5%B7%A5%E5%85%B7/"/>
     
-      <category term="IDE" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7/IDE/"/>
+      <category term="IDE" scheme="http://yoursite.com/categories/%E5%85%B6%E5%AE%83%E5%B7%A5%E5%85%B7/IDE/"/>
     
     
       <category term="vscode" scheme="http://yoursite.com/tags/vscode/"/>
@@ -219,11 +217,11 @@
   </entry>
   
   <entry>
-    <title>go-navigation</title>
-    <link href="http://yoursite.com/2017/01/01/golang-navigation/"/>
-    <id>http://yoursite.com/2017/01/01/golang-navigation/</id>
+    <title>go-导航</title>
+    <link href="http://yoursite.com/2017/01/01/go-%E5%AF%BC%E8%88%AA/"/>
+    <id>http://yoursite.com/2017/01/01/go-导航/</id>
     <published>2017-01-01T12:34:13.000Z</published>
-    <updated>2017-01-09T03:12:25.308Z</updated>
+    <updated>2017-01-16T14:15:05.538Z</updated>
     
     <content type="html"><![CDATA[<h4 id="社区"><a href="#社区" class="headerlink" title="[社区]"></a>[社区]</h4><p><a href="http://www.golangtc.com/" target="_blank" rel="external">golang中国</a>    /    <a href="http://studygolang.com" target="_blank" rel="external">go语言中文网</a>    /</p>
 <h4 id="教程"><a href="#教程" class="headerlink" title="[教程]"></a>[教程]</h4><p><a href="http://docscn.studygolang.com/doc/code.html" target="_blank" rel="external">中文版</a>    /    <a href="https://tour.go-zh.org/welcome/1" target="_blank" rel="external">GO指南</a>    /    <a href="http://docscn.studygolang.com/doc/effective_go.html" target="_blank" rel="external">高效使用GO</a>    /</p>
@@ -249,8 +247,8 @@
   
   <entry>
     <title>GO语言安装和环境配置</title>
-    <link href="http://yoursite.com/2016/12/25/golang-install-config/"/>
-    <id>http://yoursite.com/2016/12/25/golang-install-config/</id>
+    <link href="http://yoursite.com/2016/12/25/GO%E8%AF%AD%E8%A8%80%E5%AE%89%E8%A3%85%E5%92%8C%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
+    <id>http://yoursite.com/2016/12/25/GO语言安装和环境配置/</id>
     <published>2016-12-25T14:47:15.000Z</published>
     <updated>2017-01-09T03:11:56.412Z</updated>
     
@@ -294,20 +292,6 @@
       <category term="gO语言" scheme="http://yoursite.com/tags/gO%E8%AF%AD%E8%A8%80/"/>
     
       <category term="golang" scheme="http://yoursite.com/tags/golang/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>markdown</title>
-    <link href="http://yoursite.com/2016/12/25/markdown/"/>
-    <id>http://yoursite.com/2016/12/25/markdown/</id>
-    <published>2016-12-25T10:17:13.000Z</published>
-    <updated>2016-12-25T10:17:13.749Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
     
   </entry>
   
