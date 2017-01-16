@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/tags/index.html</loc>
+    
+    <lastmod>2017-01-16T12:26:48.081Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about/index.html</loc>
+    
+    <lastmod>2017-01-16T12:23:12.211Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/categories/index.html</loc>
+    
+    <lastmod>2017-01-16T12:20:11.631Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/01/08/golang-basis/</loc>
+    
+    <lastmod>2017-01-09T12:57:30.532Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/01/08/golang-ide/</loc>
+    
+    <lastmod>2017-01-09T04:49:45.038Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/01/02/vscode-tutorial/</loc>
+    
+    <lastmod>2017-01-09T03:14:47.038Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/01/01/golang-navigation/</loc>
+    
+    <lastmod>2017-01-09T03:12:25.308Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/12/25/golang-install-config/</loc>
+    
+    <lastmod>2017-01-09T03:11:56.412Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/12/25/markdown/</loc>
+    
+    <lastmod>2016-12-25T10:17:13.749Z</lastmod>
+    
+  </url>
+  
+</urlset>
