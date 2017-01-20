@@ -270,7 +270,7 @@ go程序是通过package来组织的
         <li class="menu-item menu-item-wiki">
           <a href="/wiki" rel="section">
             
-              <i class="menu-item-icon fa fa-fw fa-list"></i> <br />
+              <i class="menu-item-icon fa fa-fw fa-wikipedia-w"></i> <br />
             
             百科
           </a>
@@ -351,7 +351,7 @@ go程序是通过package来组织的
   <link itemprop="mainEntityOfPage" href="http://yoursite.com/2017/01/08/go语言基础/">
 
   <span style="display:none" itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <meta itemprop="name" content="奕尘/yidust">
+    <meta itemprop="name" content="奕尘">
     <meta itemprop="description" content="">
     <meta itemprop="image" content="http://my.csdn.net/uploads/201207/17/1342492742_5865.jpg">
   </span>
@@ -461,18 +461,12 @@ go程序是通过package来组织的
 
           
           
-             <span id="/2017/01/08/go语言基础/" class="leancloud_visitors" data-flag-title="go语言基础">
-               <span class="post-meta-divider">|</span>
-               <span class="post-meta-item-icon">
-                 <i class="fa fa-eye"></i>
-               </span>
-               
-                 <span class="post-meta-item-text">阅读次数 </span>
-               
-                 <span class="leancloud-visitors-count"></span>
-             </span>
-          
 
+          
+            <span class="post-meta-divider">|</span>
+            <span class="page-pv"><i class="fa fa-file-o"></i>
+            <span class="busuanzi-value" id="busuanzi_value_page_pv" ></span>
+            </span>
           
 
           
@@ -613,8 +607,8 @@ go程序是通过package来组织的
         <div class="post-nav">
           <div class="post-nav-next post-nav-item">
             
-              <a href="/2017/01/02/Visual Studio Code中配置GO开发环境/" rel="next" title="Visual Studio Code中配置GO开发环境">
-                <i class="fa fa-chevron-left"></i> Visual Studio Code中配置GO开发环境
+              <a href="/2017/01/08/sublime Text 3搭建GO开发环境/" rel="next" title="sublime Text 3搭建GO开发环境">
+                <i class="fa fa-chevron-left"></i> sublime Text 3搭建GO开发环境
               </a>
             
           </div>
@@ -623,8 +617,8 @@ go程序是通过package来组织的
 
           <div class="post-nav-prev post-nav-item">
             
-              <a href="/2017/01/08/sublime Text 3搭建GO开发环境/" rel="prev" title="sublime Text 3搭建GO开发环境">
-                sublime Text 3搭建GO开发环境 <i class="fa fa-chevron-right"></i>
+              <a href="/2017/01/17/chrome常用插件推荐/" rel="prev" title="chrome常用插件推荐">
+                chrome常用插件推荐 <i class="fa fa-chevron-right"></i>
               </a>
             
           </div>
@@ -711,8 +705,8 @@ go程序是通过package来组织的
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <img class="site-author-image" itemprop="image"
                src="http://my.csdn.net/uploads/201207/17/1342492742_5865.jpg"
-               alt="奕尘/yidust" />
-          <p class="site-author-name" itemprop="name">奕尘/yidust</p>
+               alt="奕尘" />
+          <p class="site-author-name" itemprop="name">奕尘</p>
           <p class="site-description motion-element" itemprop="description">社会会淘汰有学历的人，不会淘汰有学习能力的人</p>
         </div>
         <nav class="site-state motion-element">
@@ -834,7 +828,7 @@ go程序是通过package来组织的
   <span class="with-love">
     <i class="fa fa-heart"></i>
   </span>
-  <span class="author" itemprop="copyrightHolder">奕尘/yidust</span>
+  <span class="author" itemprop="copyrightHolder">奕尘</span>
 </div>
 
 
@@ -857,7 +851,11 @@ go程序是通过package来组织的
   <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
   
+    <span class="site-uv"><i class="fa fa-user"></i><span class="busuanzi-value" id="busuanzi_value_site_uv"></span></span>
+  
 
+  
+    <span class="site-pv"><i class="fa fa-eye"></i><span class="busuanzi-value" id="busuanzi_value_site_pv"></span></span>
   
   
 </div>
@@ -1108,113 +1106,6 @@ go程序是通过package来组织的
   
 
   
-
-  
-  <script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"></script>
-  <script>AV.initialize("dyz3BMa65nQpYNUS0q5M2Cit-gzGzoHsz", "FzSbBdU6fH6Yvp3g5Hh3iu2u");</script>
-  <script>
-    function showTime(Counter) {
-      var query = new AV.Query(Counter);
-      var entries = [];
-      var $visitors = $(".leancloud_visitors");
-
-      $visitors.each(function () {
-        entries.push( $(this).attr("id").trim() );
-      });
-
-      query.containedIn('url', entries);
-      query.find()
-        .done(function (results) {
-          var COUNT_CONTAINER_REF = '.leancloud-visitors-count';
-
-          if (results.length === 0) {
-            $visitors.find(COUNT_CONTAINER_REF).text(0);
-            return;
-          }
-
-          for (var i = 0; i < results.length; i++) {
-            var item = results[i];
-            var url = item.get('url');
-            var time = item.get('time');
-            var element = document.getElementById(url);
-
-            $(element).find(COUNT_CONTAINER_REF).text(time);
-          }
-          for(var i = 0; i < entries.length; i++) {
-            var url = entries[i];
-            var element = document.getElementById(url);
-            var countSpan = $(element).find(COUNT_CONTAINER_REF);
-            if( countSpan.text() == '') {
-              countSpan.text(0);
-            }
-          }
-        })
-        .fail(function (object, error) {
-          console.log("Error: " + error.code + " " + error.message);
-        });
-    }
-
-    function addCount(Counter) {
-      var $visitors = $(".leancloud_visitors");
-      var url = $visitors.attr('id').trim();
-      var title = $visitors.attr('data-flag-title').trim();
-      var query = new AV.Query(Counter);
-
-      query.equalTo("url", url);
-      query.find({
-        success: function(results) {
-          if (results.length > 0) {
-            var counter = results[0];
-            counter.fetchWhenSave(true);
-            counter.increment("time");
-            counter.save(null, {
-              success: function(counter) {
-                var $element = $(document.getElementById(url));
-                $element.find('.leancloud-visitors-count').text(counter.get('time'));
-              },
-              error: function(counter, error) {
-                console.log('Failed to save Visitor num, with error message: ' + error.message);
-              }
-            });
-          } else {
-            var newcounter = new Counter();
-            /* Set ACL */
-            var acl = new AV.ACL();
-            acl.setPublicReadAccess(true);
-            acl.setPublicWriteAccess(true);
-            newcounter.setACL(acl);
-            /* End Set ACL */
-            newcounter.set("title", title);
-            newcounter.set("url", url);
-            newcounter.set("time", 1);
-            newcounter.save(null, {
-              success: function(newcounter) {
-                var $element = $(document.getElementById(url));
-                $element.find('.leancloud-visitors-count').text(newcounter.get('time'));
-              },
-              error: function(newcounter, error) {
-                console.log('Failed to create');
-              }
-            });
-          }
-        },
-        error: function(error) {
-          console.log('Error:' + error.code + " " + error.message);
-        }
-      });
-    }
-
-    $(function() {
-      var Counter = AV.Object.extend("Counter");
-      if ($('.leancloud_visitors').length == 1) {
-        addCount(Counter);
-      } else if ($('.post-title-link').length > 1) {
-        showTime(Counter);
-      }
-    });
-  </script>
-
-
 
   
 
