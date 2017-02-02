@@ -3,6 +3,20 @@
   
     
     <entry>
+      <title><![CDATA[golang资料整理]]></title>
+      <url>%2F2017%2F02%2F02%2Fgolang%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86%2F</url>
+      <content type="text"><![CDATA[入门资料整理golang-web在线编辑器wide | golang书籍GO入门指南 | GO语言教程 | golangman【是一个帮助具有其他语言开发经验的人快速上手的开源项目】| Go by Example | GO 指南 | GoDoc | 网站教程幕课网 | 51CTO | 实验楼 | go编程基础| 网易云课堂 | 哔哩哔哩 | 官网中文版 | 环境搭建 | 中文版环境搭建 | golang-tour | tour-中文版 | 功效使用go | 高效使用go中文版 | 参考: https://771dian.com/p/portal/VJhVeydtg【go导航】 golang教程网站酷壳 | W3Cschool | 百易教程 | RUNOOB | 极客学院 | W3II | golang 社区Golang中国 | GO语言中文网 |]]></content>
+    </entry>
+
+    
+    <entry>
+      <title><![CDATA[无闻-go语言编程基础笔记]]></title>
+      <url>%2F2017%2F01%2F30%2F%E6%97%A0%E9%97%BB-go%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0%2F</url>
+      <content type="text"><![CDATA[无闻-go语言编程基础笔记一:go的环境变量与工作目录GOPATH下需要建立3个目录 bin （存放编译后生成的可执行文件） pkg （存放编译后生成的包文件） src （存放项目的源码） 二:go常用命令 go get : 获取远程包（需要提前安装 git或hg） go run : 直接运行程序 go build : 测试编译，检查是否有编译错误 （package main ）可执行入口 go fmt : 格式化源码 go install : 编译包文件并编译整个程序 go test : 运行测试文件 （**_test.go是测试文件） go doc : 查看文档(本地官网 go -http=:8080 &amp; 后台执行) 三：go注释 12// 多行注释/* */ 多行注释 三: go程序结构 package main包含main函数 一个可执行程序只有一个main包 import 导入非main的包 12345678910111213141516171819202122232425// 当前程序的包名package main// 导入其他的包import &quot;fmt&quot;// 常量定义const PI = 3.14// 全局变量的声明与赋值var name = &quot;gopher&quot;// 一般类型声明type newtype int// 结构的声明type gopher struct&#123;&#125;// 接口的声明type golang interface&#123;&#125;// 由main函数作为程序入口点启动func main() &#123; Println(&quot;Hello workd！你好， 世界！&quot;)&#125; ## import 导入包格式 12345678910111213import &quot;fmt&quot; &quot;io&quot; &quot;xxx&quot; import ( &quot;fmt&quot; &quot;io&quot; &quot;xxx&quot;) 注意： 省略调用不可以和别名同时使用。 可见性规则go语言：使用大小写来决定： 常量，变量，类型，接口，结构，函数。是否被外部包所调用。 函数名大写，即为：private 函数名小写，即为：public 参考：暗黑破坏球嘿哈:http://www.jianshu.com/p/1da03e36f382]]></content>
+    </entry>
+
+    
+    <entry>
       <title></title>
       <url>%2F2017%2F01%2F27%2Fchrome%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90%2F</url>
       <content type="text"><![CDATA[title: chrome常用插件推荐categories: - 其他 tags: - chrome插件 date: 2017-01-17 20:21:47​— chrome常用插件推荐 Diigo Web Collector :是一款集书签、注释、截图和标记等多种强大功能于一身的Chrome插件。]]></content>
@@ -12,14 +26,7 @@
     <entry>
       <title><![CDATA[my-wiki]]></title>
       <url>%2F2017%2F01%2F21%2Fmy-wiki%2F</url>
-      <content type="text"><![CDATA[web网址导航龙轩导航 / 谷粉搜导航 / AnywhereAnything / 虫部落*快搜 搜索引擎 google / bing / 西林街搜索 / yandex社区 虫部落 / HTTPS（ssl） Let’s Encrypt 菜单对应的图标 Font Awesome 编程语言golang 网络下载BT / qBittorrent 邮箱 youmail:http://www.yomail.com/?utm_source=iplaysoft#page-top [YoMail可以收发gmail的客户端]网络云盘 天翼云：http://cloud.189.cn/ / 百度网盘：http://yun.baidu.com/ / 同步盘 resilio[无需服务器的同步工具] / owncloud【介绍：http://www.appinn.com/owncloud-6/】 科学上网 windows: android: 免费vpn: 极光vpnvps RamNode 工具PDF文档转换工具 smallpdf在线工具 万能查询和在线工具：http://iumr.ga/屏幕截图软件 Snipaste :https://www.snipaste.com/ [屏幕截图软件超级利器] markdown工具 MarkdownIME / typora[markdown写作特好用] / markdownEditor / 免费资源电影视频 ZogVM 电影视频管理软件：https://github.com/zogvm/zogvm [一款电影视频管理软件]科学上网 windows: android: 免费vpn: 极光vpnvps RamNode 工具PDF文档转换工具 smallpdf在线工具 万能查询和在线工具：http://iumr.ga/屏幕截图软件 Snipaste :https://www.snipaste.com/ [屏幕截图软件超级利器] 让WI-FI速度跑的比邻居快【来自小众软件】 免费资源电影视频 ZogVM 电影视频管理软件：https://github.com/zogvm/zogvm [一款电影视频管理软件]学习资源学习网站 麦子学院 英语学习软件多邻国]]></content>
-    </entry>
-
-    
-    <entry>
-      <title><![CDATA[sublime Text 3搭建GO开发环境]]></title>
-      <url>%2F2017%2F01%2F08%2Fsublime%20Text%203%E6%90%AD%E5%BB%BAGO%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%2F</url>
-      <content type="text"><![CDATA[sublime Text 3搭建GO开发环境首先是安装go golang官网下载地址：https://golang.org/dl/ 国内golang下载地址：http://golangtc.com/download 注意：以上请选择对应的版本进行下载，如：windows-64位 则，选择：windows-amd64.msi如果是32位系统，则选择：windows-386.msi 下载，安装，配置sublime Text 3 下载 Sublime Text 3,地址：http://www.sublimetext.com/ 下载好后，右键解压后，进入到Sublime Text3目录，双击sublime_text.exe 运行。就可以使用了。 安装Package Control，在打开 Sublime Text 2以后，按下快捷键 Ctrl + `，打开命令窗行，｀这个按键在Tab键的上面，我刚开始还没找到，呵呵。输入以下内容，并回车： import urllib.request,os; pf = &apos;Package Control.sublime-package&apos;; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), &apos;wb&apos;).write(urllib.request.urlopen( &apos;http://sublime.wbond.net/&apos; + pf.replace(&apos; &apos;,&apos;%20&apos;)).read()) 安装完成后，重启Sublime Text 3后，就可以发现在 Preferences菜单下，多出一个菜单项 Package Control。 现在可以安装Gosublime插件了，按住Ctrl+Shilft+p会弹出一个对话框 输入install回车弹出一个安装包的对话框. 输入GoSublime选择GoSublime回车ok，GoSublime安装完成。下载安装gocode 下载安装gocode 可以去github下载https://github.com/nsf/gocode.git（要安装google的git版本管理工具）,配置git环境变量：;C:\Program Files\Git\bin;C:\Program Files\Git\libexec\git-core; 打开控制台，输入以下内容： go get -u github.com/nsf/gocode go install github.com/nsf/gocode 安装完成后，我们可以在 go/bin 目录下，发现多出了个 gocode 文件。（一定要放在bin目录下） 修改GoSublime配置：在 Preferences菜单下，找到Package Settings，然后找到 GoSublime，再往下找到 Settings - Default。再打开的文件中，添加如下配置，并保存： 好了，到目前为止，开发环境搭建完成。 sublime text3的一些基本插件中文输入法的问题从Sublime Text的初版（1.0）到现在（3.0 3065），中文输入法（包括日文输入法）都有一个问题：输入框不跟随。需要安装 ‘IMESupport’插件，之后重启Sbulime Text问题就解决了。 左侧文件夹Sublime Text支持以文件为单位进行编辑，这个在编辑一个文件夹下的代码时，尤其有用。在’file’下’open Folder’:你会发现左侧多了一个侧栏，这个侧栏列出了当前打开的文件和文件夹，使用’Ctrl + K,Ctrl + B’显示或者隐藏侧栏，使用’Ctrl + P’快速跳转到文件夹里的文件。]]></content>
+      <content type="text"><![CDATA[注：以下资源搜集于互联网 web网址导航龙轩导航 / 谷粉搜导航 / AnywhereAnything / 虫部落*快搜 搜索引擎 google / bing / 西林街搜索 / yandex社区 虫部落 / HTTPS（ssl） Let’s Encrypt 菜单对应的图标 Font Awesome 编程语言golang 网络下载BT / qBittorrent 邮箱 youmail:http://www.yomail.com/?utm_source=iplaysoft#page-top [YoMail可以收发gmail的客户端]网络云盘 天翼云：http://cloud.189.cn/ / 百度网盘：http://yun.baidu.com/ / 同步盘 resilio[无需服务器的同步工具] / owncloud【介绍：http://www.appinn.com/owncloud-6/】 科学上网 windows: android: 免费vpn: 极光vpnvps RamNode 工具PDF文档转换工具 smallpdf在线工具 万能查询和在线工具：http://iumr.ga/屏幕截图软件 Snipaste :https://www.snipaste.com/ [屏幕截图软件超级利器] markdown工具 MarkdownIME / typora[markdown写作特好用] / markdownEditor / 免费资源资源网站免费资源部落 | 电影视频 ZogVM 电影视频管理软件：https://github.com/zogvm/zogvm [一款电影视频管理软件]科学上网 windows: android: 免费vpn: 极光vpnvps RamNode 工具PDF文档转换工具 smallpdf在线工具 万能查询和在线工具：http://iumr.ga/屏幕截图软件 Snipaste :https://www.snipaste.com/ [屏幕截图软件超级利器] 让WI-FI速度跑的比邻居快【来自小众软件】 免费资源电影视频 ZogVM 电影视频管理软件：https://github.com/zogvm/zogvm [一款电影视频管理软件]学习资源学习网站 麦子学院 英语学习软件多邻国 pc常用软件参考:来自西界:http://www.jianshu.com/p/f82df1035669 系统linuxwindowswindows下的babun【linux shell参考链接:http://www.jianshu.com/p/068935206960】]]></content>
     </entry>
 
     
@@ -31,9 +38,16 @@
 
     
     <entry>
+      <title><![CDATA[sublime Text 3搭建GO开发环境]]></title>
+      <url>%2F2017%2F01%2F08%2Fsublime%20Text%203%E6%90%AD%E5%BB%BAGO%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%2F</url>
+      <content type="text"><![CDATA[sublime Text 3搭建GO开发环境首先是安装go golang官网下载地址：https://golang.org/dl/ 国内golang下载地址：http://golangtc.com/download 注意：以上请选择对应的版本进行下载，如：windows-64位 则，选择：windows-amd64.msi如果是32位系统，则选择：windows-386.msi 下载，安装，配置sublime Text 3 下载 Sublime Text 3,地址：http://www.sublimetext.com/ 下载好后，右键解压后，进入到Sublime Text3目录，双击sublime_text.exe 运行。就可以使用了。 安装Package Control，在打开 Sublime Text 2以后，按下快捷键 Ctrl + `，打开命令窗行，｀这个按键在Tab键的上面，我刚开始还没找到，呵呵。输入以下内容，并回车： import urllib.request,os; pf = &apos;Package Control.sublime-package&apos;; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), &apos;wb&apos;).write(urllib.request.urlopen( &apos;http://sublime.wbond.net/&apos; + pf.replace(&apos; &apos;,&apos;%20&apos;)).read()) 安装完成后，重启Sublime Text 3后，就可以发现在 Preferences菜单下，多出一个菜单项 Package Control。 现在可以安装Gosublime插件了，按住Ctrl+Shilft+p会弹出一个对话框 输入install回车弹出一个安装包的对话框. 输入GoSublime选择GoSublime回车ok，GoSublime安装完成。下载安装gocode 下载安装gocode 可以去github下载https://github.com/nsf/gocode.git（要安装google的git版本管理工具）,配置git环境变量：;C:\Program Files\Git\bin;C:\Program Files\Git\libexec\git-core; 打开控制台，输入以下内容： go get -u github.com/nsf/gocode go install github.com/nsf/gocode 安装完成后，我们可以在 go/bin 目录下，发现多出了个 gocode 文件。（一定要放在bin目录下） 修改GoSublime配置：在 Preferences菜单下，找到Package Settings，然后找到 GoSublime，再往下找到 Settings - Default。再打开的文件中，添加如下配置，并保存： 好了，到目前为止，开发环境搭建完成。 sublime text3的一些基本插件中文输入法的问题从Sublime Text的初版（1.0）到现在（3.0 3065），中文输入法（包括日文输入法）都有一个问题：输入框不跟随。需要安装 ‘IMESupport’插件，之后重启Sbulime Text问题就解决了。 左侧文件夹Sublime Text支持以文件为单位进行编辑，这个在编辑一个文件夹下的代码时，尤其有用。在’file’下’open Folder’:你会发现左侧多了一个侧栏，这个侧栏列出了当前打开的文件和文件夹，使用’Ctrl + K,Ctrl + B’显示或者隐藏侧栏，使用’Ctrl + P’快速跳转到文件夹里的文件。]]></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[Visual Studio Code中配置GO开发环境]]></title>
-      <url>%2F2017%2F01%2F02%2FVisual%20Studio%20Code%E4%B8%AD%E9%85%8D%E7%BD%AEGO%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%2F</url>
-      <content type="text"><![CDATA[Visual Studio Code中配置GO开发环境 vscode配置go开发环境 Visual Studio Code 使用Git进行版本控制来自go语言中文网：]]></content>
+      <url>%2F2017%2F01%2F02%2FVisual%20Studio%20Code%E4%B8%AD%E9%85%8D%E7%BD%AEGO%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83-%E7%89%88%E6%9C%AC2%2F</url>
+      <content type="text"><![CDATA[Visual Studio Code配置GO开发环境 参考一下文章：在Deepin Linux上用Visual Studio Code配置GoLang开发环境]]></content>
     </entry>
 
     

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-27T13:56:36.303Z</updated>
+  <updated>2017-02-02T12:30:19.858Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,98 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>golang资料整理</title>
+    <link href="http://yoursite.com/2017/02/02/golang%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/"/>
+    <id>http://yoursite.com/2017/02/02/golang资料整理/</id>
+    <published>2017-02-02T10:40:06.000Z</published>
+    <updated>2017-02-02T12:30:19.858Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="入门资料整理"><a href="#入门资料整理" class="headerlink" title="入门资料整理"></a>入门资料整理</h1><h2 id="golang-web在线编辑器"><a href="#golang-web在线编辑器" class="headerlink" title="golang-web在线编辑器"></a>golang-web在线编辑器</h2><p><a href="https://wide.b3log.org/login" target="_blank" rel="external">wide</a> |</p>
+<h2 id="golang书籍"><a href="#golang书籍" class="headerlink" title="golang书籍"></a>golang书籍</h2><p><a href="https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md" target="_blank" rel="external">GO入门指南</a> | <a href="https://github.com/yidust/build-web-application-with-golang/blob/master/zh/preface.md" target="_blank" rel="external">GO语言教程</a> | <a href="https://github.com/yidust/golangman" target="_blank" rel="external">golangman</a>【是一个帮助具有其他语言开发经验的人快速上手的开源项目】| <a href="https://gobyexample.com/" target="_blank" rel="external">Go by Example</a> | <a href="http://tour.golangtc.com/welcome/1" target="_blank" rel="external">GO 指南</a> | <a href="http://godoc.golangtc.com/" target="_blank" rel="external">GoDoc</a> |</p>
+<h2 id="网站教程"><a href="#网站教程" class="headerlink" title="网站教程"></a>网站教程</h2><p><a href="http://www.imooc.com/course/list?c=Go" target="_blank" rel="external">幕课网</a> |    <a href="http://edu.51cto.com/course/courseList/id-27.html" target="_blank" rel="external">51CTO</a> | <a href="https://www.shiyanlou.com/courses/?course_type=all&amp;tag=GO&amp;fee=all" target="_blank" rel="external">实验楼</a> | <a href="https://github.com/yidust/go-fundamental-programming" target="_blank" rel="external">go编程基础</a>| <a href="http://study.163.com/category/400000000146058" target="_blank" rel="external">网易云课堂</a> | <a href="https://search.bilibili.com/all?keyword=go%E8%AF%AD%E8%A8%80%E6%95%99%E7%A8%8B&amp;page=1&amp;order=totalrank" target="_blank" rel="external">哔哩哔哩</a> |</p>
+<p><a href="http://docscn.studygolang.com/" target="_blank" rel="external">官网中文版</a> | <a href="https://golang.org/doc/code.html" target="_blank" rel="external">环境搭建</a> | <a href="http://docscn.studygolang.com/doc/code.html" target="_blank" rel="external">中文版环境搭建</a> | <a href="https://tour.golang.org/welcome/1" target="_blank" rel="external">golang-tour</a> | <a href="https://tour.go-zh.org/welcome/1" target="_blank" rel="external">tour-中文版</a> | <a href="https://golang.org/doc/effective_go.html" target="_blank" rel="external">功效使用go</a> | <a href="https://golang.org/doc/effective_go.html" target="_blank" rel="external">高效使用go中文版</a> | </p>
+<p><strong>参考</strong>: <a href="https://771dian.com/p/portal/VJhVeydtg【go导航】" target="_blank" rel="external">https://771dian.com/p/portal/VJhVeydtg【go导航】</a></p>
+<h2 id="golang教程网站"><a href="#golang教程网站" class="headerlink" title="golang教程网站"></a>golang教程网站</h2><p><a href="http://coolshell.cn/articles/8460.html" target="_blank" rel="external">酷壳</a> | <a href="http://www.w3cschool.cn/go/" target="_blank" rel="external">W3Cschool</a> | <a href="http://www.yiibai.com/go/" target="_blank" rel="external">百易教程</a> | <a href="http://www.runoob.com/go/go-tutorial.html" target="_blank" rel="external">RUNOOB</a> | <a href="http://wiki.jikexueyuan.com/list/go/" target="_blank" rel="external">极客学院</a> | <a href="http://www.w3ii.com/go/default.html" target="_blank" rel="external">W3II</a> |</p>
+<h2 id="golang-社区"><a href="#golang-社区" class="headerlink" title="golang 社区"></a>golang 社区</h2><p><a href="http://golangtc.com/" target="_blank" rel="external">Golang中国</a> | <a href="http://studygolang.com/" target="_blank" rel="external">GO语言中文网</a> | </p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;入门资料整理&quot;&gt;&lt;a href=&quot;#入门资料整理&quot; class=&quot;headerlink&quot; title=&quot;入门资料整理&quot;&gt;&lt;/a&gt;入门资料整理&lt;/h1&gt;&lt;h2 id=&quot;golang-web在线编辑器&quot;&gt;&lt;a href=&quot;#golang-web在线编辑器&quot; class
+    
+    </summary>
+    
+      <category term="技术" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="编程语言" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="GO语言" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/GO%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="golang入门资料整理" scheme="http://yoursite.com/tags/golang%E5%85%A5%E9%97%A8%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>无闻-go语言编程基础笔记</title>
+    <link href="http://yoursite.com/2017/01/30/%E6%97%A0%E9%97%BB-go%E8%AF%AD%E8%A8%80%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0/"/>
+    <id>http://yoursite.com/2017/01/30/无闻-go语言编程基础笔记/</id>
+    <published>2017-01-30T10:31:19.000Z</published>
+    <updated>2017-02-01T12:08:48.265Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="无闻-go语言编程基础笔记"><a href="#无闻-go语言编程基础笔记" class="headerlink" title="无闻-go语言编程基础笔记"></a>无闻-go语言编程基础笔记</h1><h2 id="一-go的环境变量与工作目录"><a href="#一-go的环境变量与工作目录" class="headerlink" title="一:go的环境变量与工作目录"></a>一:go的环境变量与工作目录</h2><p>GOPATH下需要建立3个目录</p>
+<ul>
+<li>bin （存放编译后生成的可执行文件）</li>
+<li>pkg （存放编译后生成的包文件）</li>
+<li>src  （存放项目的源码）</li>
+</ul>
+<h2 id="二-go常用命令"><a href="#二-go常用命令" class="headerlink" title="二:go常用命令"></a>二:go常用命令</h2><ul>
+<li>go get : 获取远程包（需要提前安装 git或hg）</li>
+<li>go run : 直接运行程序</li>
+<li>go build : 测试编译，检查是否有编译错误 （package main ）可执行入口</li>
+<li>go fmt : 格式化源码</li>
+<li>go install : 编译包文件并编译整个程序</li>
+<li>go test : 运行测试文件 （**_test.go是测试文件）</li>
+<li>go doc : 查看文档(本地官网 go -http=:8080 &amp; 后台执行)</li>
+</ul>
+<p>三：go注释</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">// 多行注释</div><div class="line">/* */ 多行注释</div></pre></td></tr></table></figure>
+<h2 id="三-go程序结构"><a href="#三-go程序结构" class="headerlink" title="三: go程序结构"></a>三: go程序结构</h2><ul>
+<li><p>package main包含main函数</p>
+<ul>
+<li>一个可执行程序只有一个main包</li>
+</ul>
+</li>
+<li><p>import 导入非main的包</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div></pre></td><td class="code"><pre><div class="line">// 当前程序的包名</div><div class="line">package main</div><div class="line"></div><div class="line">// 导入其他的包</div><div class="line">import &quot;fmt&quot;</div><div class="line"></div><div class="line">// 常量定义</div><div class="line">const PI = 3.14</div><div class="line"></div><div class="line">// 全局变量的声明与赋值</div><div class="line">var name = &quot;gopher&quot;</div><div class="line"></div><div class="line">// 一般类型声明</div><div class="line">type newtype int</div><div class="line"></div><div class="line">// 结构的声明</div><div class="line">type gopher struct&#123;&#125;</div><div class="line"></div><div class="line">// 接口的声明</div><div class="line">type golang interface&#123;&#125;</div><div class="line"></div><div class="line">// 由main函数作为程序入口点启动</div><div class="line">func main() &#123;</div><div class="line">  Println(&quot;Hello workd！你好， 世界！&quot;)</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<p>##　import 导入包格式</p>
+  <figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div></pre></td><td class="code"><pre><div class="line">import &quot;fmt&quot;								</div><div class="line">		&quot;io&quot;</div><div class="line">		&quot;xxx&quot;</div><div class="line">		</div><div class="line">		</div><div class="line">		</div><div class="line">import (</div><div class="line">	&quot;fmt&quot;</div><div class="line">	&quot;io&quot;</div><div class="line">	&quot;xxx&quot;</div><div class="line">)		</div><div class="line"></div><div class="line">									注意： 省略调用不可以和别名同时使用。</div></pre></td></tr></table></figure>
+<h2 id="可见性规则"><a href="#可见性规则" class="headerlink" title="可见性规则"></a>可见性规则</h2><p>go语言：使用大小写来决定： 常量，变量，类型，接口，结构，函数。是否被外部包所调用。</p>
+<p>函数名大写，即为：private</p>
+<p>函数名小写，即为：public</p>
+<p>参考：暗黑破坏球嘿哈:<a href="http://www.jianshu.com/p/1da03e36f382" target="_blank" rel="external">http://www.jianshu.com/p/1da03e36f382</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;无闻-go语言编程基础笔记&quot;&gt;&lt;a href=&quot;#无闻-go语言编程基础笔记&quot; class=&quot;headerlink&quot; title=&quot;无闻-go语言编程基础笔记&quot;&gt;&lt;/a&gt;无闻-go语言编程基础笔记&lt;/h1&gt;&lt;h2 id=&quot;一-go的环境变量与工作目录&quot;&gt;&lt;a hr
+    
+    </summary>
+    
+      <category term="技术" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="编程语言" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/"/>
+    
+      <category term="go语言" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/go%E8%AF%AD%E8%A8%80/"/>
+    
+    
+      <category term="编程基础笔记" scheme="http://yoursite.com/tags/%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title></title>
@@ -52,9 +144,10 @@
     <link href="http://yoursite.com/2017/01/21/my-wiki/"/>
     <id>http://yoursite.com/2017/01/21/my-wiki/</id>
     <published>2017-01-21T10:48:40.000Z</published>
-    <updated>2017-01-25T16:03:19.000Z</updated>
+    <updated>2017-01-31T12:49:11.927Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="web"><a href="#web" class="headerlink" title="web"></a>web</h1><h2 id="网址导航"><a href="#网址导航" class="headerlink" title="网址导航"></a>网址导航</h2><p><a href="http://ilxdh.com/" target="_blank" rel="external">龙轩导航</a> /  <a href="http://gufenso.coderschool.cn/" target="_blank" rel="external">谷粉搜导航</a>   /   <a href="http://lackar.com/aa/" target="_blank" rel="external">AnywhereAnything</a>   /  <a href="http://search.chongbuluo.com/" target="_blank" rel="external">虫部落*快搜</a></p>
+    <content type="html"><![CDATA[<p>注：以下资源搜集于互联网</p>
+<h1 id="web"><a href="#web" class="headerlink" title="web"></a>web</h1><h2 id="网址导航"><a href="#网址导航" class="headerlink" title="网址导航"></a>网址导航</h2><p><a href="http://ilxdh.com/" target="_blank" rel="external">龙轩导航</a> /  <a href="http://gufenso.coderschool.cn/" target="_blank" rel="external">谷粉搜导航</a>   /   <a href="http://lackar.com/aa/" target="_blank" rel="external">AnywhereAnything</a>   /  <a href="http://search.chongbuluo.com/" target="_blank" rel="external">虫部落*快搜</a></p>
 <h2 id="搜索引擎"><a href="#搜索引擎" class="headerlink" title="搜索引擎"></a>搜索引擎</h2><hr>
 <ul>
 <li><a href="http://www.google.com.hk" target="_blank" rel="external">google</a>    /   <a href="http://cn.bing.com/?mkt=zh-CN" target="_blank" rel="external">bing</a>   /   <a href="http://www.xilinjie.com/" target="_blank" rel="external">西林街搜索</a>  /   <a href="https://www.yandex.com/" target="_blank" rel="external">yandex</a><h2 id="社区"><a href="#社区" class="headerlink" title="社区"></a>社区</h2></li>
@@ -103,7 +196,8 @@
 <h2 id="markdown工具"><a href="#markdown工具" class="headerlink" title="markdown工具"></a>markdown工具</h2><blockquote>
 <p><a href="https://laobubu.net/MarkdownIME/index.zh.html" target="_blank" rel="external">MarkdownIME</a> /   <a href="https://typora.io/" target="_blank" rel="external">typora</a>[markdown写作特好用]    /   <a href="https://github.com/jijinggang/MarkdownEditor" target="_blank" rel="external">markdownEditor</a> /   </p>
 </blockquote>
-<h1 id="免费资源"><a href="#免费资源" class="headerlink" title="免费资源"></a>免费资源</h1><h2 id="电影视频"><a href="#电影视频" class="headerlink" title="电影视频"></a>电影视频</h2><hr>
+<h1 id="免费资源"><a href="#免费资源" class="headerlink" title="免费资源"></a>免费资源</h1><h2 id="资源网站"><a href="#资源网站" class="headerlink" title="资源网站"></a>资源网站</h2><p><a href="https://www.freehao123.com/" target="_blank" rel="external">免费资源部落</a>    |</p>
+<h2 id="电影视频"><a href="#电影视频" class="headerlink" title="电影视频"></a>电影视频</h2><hr>
 <ul>
 <li>ZogVM 电影视频管理软件：<a href="https://github.com/zogvm/zogvm" target="_blank" rel="external">https://github.com/zogvm/zogvm</a> [一款电影视频管理软件]<h2 id="科学上网-1"><a href="#科学上网-1" class="headerlink" title="科学上网"></a>科学上网</h2></li>
 </ul>
@@ -138,11 +232,14 @@
 <p><a href="http://www.maiziedu.com/" target="_blank" rel="external">麦子学院</a></p>
 <h2 id="英语学习软件"><a href="#英语学习软件" class="headerlink" title="英语学习软件"></a>英语学习软件</h2><p><a href="https://www.duolingo.com/" target="_blank" rel="external">多邻国</a></p>
 </blockquote>
+<h2 id="pc常用软件"><a href="#pc常用软件" class="headerlink" title="pc常用软件"></a>pc常用软件</h2><p>参考:来自西界:<a href="http://www.jianshu.com/p/f82df1035669" target="_blank" rel="external">http://www.jianshu.com/p/f82df1035669</a></p>
+<h2 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h2><h3 id="linux"><a href="#linux" class="headerlink" title="linux"></a>linux</h3><h3 id="windows"><a href="#windows" class="headerlink" title="windows"></a>windows</h3><p>windows下的<a href="https://github.com/babun/babun" target="_blank" rel="external">babun</a>【linux shell参考链接:<a href="http://www.jianshu.com/p/068935206960】" target="_blank" rel="external">http://www.jianshu.com/p/068935206960】</a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;web&quot;&gt;&lt;a href=&quot;#web&quot; class=&quot;headerlink&quot; title=&quot;web&quot;&gt;&lt;/a&gt;web&lt;/h1&gt;&lt;h2 id=&quot;网址导航&quot;&gt;&lt;a href=&quot;#网址导航&quot; class=&quot;headerlink&quot; title=&quot;网址导航&quot;&gt;&lt;/a&gt;网址导
+      &lt;p&gt;注：以下资源搜集于互联网&lt;/p&gt;
+&lt;h1 id=&quot;web&quot;&gt;&lt;a href=&quot;#web&quot; class=&quot;headerlink&quot; title=&quot;web&quot;&gt;&lt;/a&gt;web&lt;/h1&gt;&lt;h2 id=&quot;网址导航&quot;&gt;&lt;a href=&quot;#网址导航&quot; class=&quot;headerlink&quot; 
     
     </summary>
     
@@ -154,71 +251,11 @@
   </entry>
   
   <entry>
-    <title>sublime Text 3搭建GO开发环境</title>
-    <link href="http://yoursite.com/2017/01/08/sublime%20Text%203%E6%90%AD%E5%BB%BAGO%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
-    <id>http://yoursite.com/2017/01/08/sublime Text 3搭建GO开发环境/</id>
-    <published>2017-01-08T12:19:28.000Z</published>
-    <updated>2017-01-17T13:04:38.721Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="sublime-Text-3搭建GO开发环境"><a href="#sublime-Text-3搭建GO开发环境" class="headerlink" title="sublime Text 3搭建GO开发环境"></a>sublime Text 3搭建GO开发环境</h3><h4 id="首先是安装go"><a href="#首先是安装go" class="headerlink" title="首先是安装go"></a>首先是安装go</h4><hr>
-<ul>
-<li>golang官网下载地址：<a href="https://golang.org/dl/" target="_blank" rel="external">https://golang.org/dl/</a></li>
-<li>国内golang下载地址：<a href="http://golangtc.com/download" target="_blank" rel="external">http://golangtc.com/download</a></li>
-<li><strong>注意：以上请选择对应的版本进行下载，如：windows-64位 则，选择：windows-amd64.msi<br>如果是32位系统，则选择：windows-386.msi</strong></li>
-</ul>
-<h4 id="下载，安装，配置sublime-Text-3"><a href="#下载，安装，配置sublime-Text-3" class="headerlink" title="下载，安装，配置sublime Text 3"></a>下载，安装，配置sublime Text 3</h4><hr>
-<ol>
-<li>下载 Sublime Text 3,地址：<a href="http://www.sublimetext.com/" target="_blank" rel="external">http://www.sublimetext.com/</a></li>
-<li>下载好后，右键解压后，进入到Sublime Text3目录，双击sublime_text.exe 运行。就可以使用了。</li>
-<li>安装Package Control，在打开 Sublime Text 2以后，按下快捷键 Ctrl + `，打开命令窗行，｀这个按键在Tab键的上面，我刚开始还没找到，呵呵。输入以下内容，并回车：</li>
-</ol>
-<hr>
-<pre><code>import urllib.request,os; pf = &apos;Package Control.sublime-package&apos;; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), &apos;wb&apos;).write(urllib.request.urlopen( &apos;http://sublime.wbond.net/&apos; + pf.replace(&apos; &apos;,&apos;%20&apos;)).read())
-</code></pre><hr>
-<ol>
-<li>安装完成后，重启Sublime Text 3后，就可以发现在 Preferences菜单下，多出一个菜单项 Package Control。</li>
-<li>现在可以安装Gosublime插件了，按住Ctrl+Shilft+p会弹出一个对话框<img src="http://oihhszlnu.bkt.clouddn.com/gosublime/png/BVD%5D%25G0%29EVMBX6J26CSODJC.png" alt="Ctrl+Shilft+p"></li>
-<li>输入install回车弹出一个安装包的对话框.<img src="http://oihhszlnu.bkt.clouddn.com/gosublime/png/I$%7BEEJZ5C~W@PU%5B7L$QQCTP.png" alt="install"></li>
-<li>输入GoSublime选择GoSublime回车<br>ok，GoSublime安装完成。<h4 id="下载安装gocode"><a href="#下载安装gocode" class="headerlink" title="下载安装gocode"></a>下载安装gocode</h4></li>
-</ol>
-<hr>
-<ol>
-<li>下载安装gocode</li>
-</ol>
-<p>可以去github下载<a href="https://github.com/nsf/gocode.git（要安装google的git版本管理工具）,配置git环境变量：;C:\Program" target="_blank" rel="external">https://github.com/nsf/gocode.git（要安装google的git版本管理工具）,配置git环境变量：;C:\Program</a> Files\Git\bin;C:\Program Files\Git\libexec\git-core;</p>
-<p>打开控制台，输入以下内容：</p>
-<p>　　　　go get -u github.com/nsf/gocode</p>
-<p>　　　　go install github.com/nsf/gocode</p>
-<p>　　安装完成后，我们可以在 go/bin 目录下，发现多出了个 gocode 文件。（一定要放在bin目录下）</p>
-<ol>
-<li>修改GoSublime配置：在 Preferences菜单下，找到Package Settings，然后找到 GoSublime，再往下找到 Settings - Default。再打开的文件中，添加如下配置，并保存：<br><img src="http://images.cnitblog.com/blog/83792/201303/01113953-00765a6f242a431b9c738d2d6eb5aaab.png" alt="settings"></li>
-</ol>
-<p>好了，到目前为止，开发环境搭建完成。</p>
-<h3 id="sublime-text3的一些基本插件"><a href="#sublime-text3的一些基本插件" class="headerlink" title="sublime text3的一些基本插件"></a>sublime text3的一些基本插件</h3><h4 id="中文输入法的问题"><a href="#中文输入法的问题" class="headerlink" title="中文输入法的问题"></a>中文输入法的问题</h4><p>从Sublime Text的初版（1.0）到现在（3.0 3065），中文输入法（包括日文输入法）都有一个问题：输入框不跟随。<br>需要安装    ‘IMESupport’插件，之后重启Sbulime Text问题就解决了。</p>
-<h3 id="左侧文件夹"><a href="#左侧文件夹" class="headerlink" title="左侧文件夹"></a>左侧文件夹</h3><p>Sublime Text支持以文件为单位进行编辑，这个在编辑一个文件夹下的代码时，尤其有用。在’file’下’open Folder’:<br>你会发现左侧多了一个侧栏，这个侧栏列出了当前打开的文件和文件夹，使用’Ctrl + K,Ctrl + B’显示或者隐藏侧栏，使用’Ctrl + P’快速跳转到文件夹里的文件。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h3 id=&quot;sublime-Text-3搭建GO开发环境&quot;&gt;&lt;a href=&quot;#sublime-Text-3搭建GO开发环境&quot; class=&quot;headerlink&quot; title=&quot;sublime Text 3搭建GO开发环境&quot;&gt;&lt;/a&gt;sublime Text 3搭建GO开发
-    
-    </summary>
-    
-      <category term="工具" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7/"/>
-    
-      <category term="IDE" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7/IDE/"/>
-    
-    
-      <category term="golang-IDE" scheme="http://yoursite.com/tags/golang-IDE/"/>
-    
-  </entry>
-  
-  <entry>
     <title>go语言基础</title>
     <link href="http://yoursite.com/2017/01/08/go%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
     <id>http://yoursite.com/2017/01/08/go语言基础/</id>
     <published>2017-01-08T12:19:28.000Z</published>
-    <updated>2017-01-17T14:45:55.255Z</updated>
+    <updated>2017-01-28T14:54:29.814Z</updated>
     
     <content type="html"><![CDATA[<h3 id="go程序的一般结构"><a href="#go程序的一般结构" class="headerlink" title="go程序的一般结构"></a>go程序的一般结构</h3><ul>
 <li>go程序是通过<strong>package</strong>来组织的</li>
@@ -328,20 +365,79 @@
   </entry>
   
   <entry>
-    <title>Visual Studio Code中配置GO开发环境</title>
-    <link href="http://yoursite.com/2017/01/02/Visual%20Studio%20Code%E4%B8%AD%E9%85%8D%E7%BD%AEGO%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
-    <id>http://yoursite.com/2017/01/02/Visual Studio Code中配置GO开发环境/</id>
-    <published>2017-01-02T15:50:38.000Z</published>
-    <updated>2017-01-17T13:04:47.276Z</updated>
+    <title>sublime Text 3搭建GO开发环境</title>
+    <link href="http://yoursite.com/2017/01/08/sublime%20Text%203%E6%90%AD%E5%BB%BAGO%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
+    <id>http://yoursite.com/2017/01/08/sublime Text 3搭建GO开发环境/</id>
+    <published>2017-01-08T12:19:28.000Z</published>
+    <updated>2017-01-17T13:04:38.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Visual-Studio-Code中配置GO开发环境"><a href="#Visual-Studio-Code中配置GO开发环境" class="headerlink" title="Visual Studio Code中配置GO开发环境"></a>Visual Studio Code中配置GO开发环境</h2><hr>
-<p><a href="http://studygolang.com/articles/6204" target="_blank" rel="external">vscode配置go开发环境</a></p>
-<h2 id="Visual-Studio-Code-使用Git进行版本控制"><a href="#Visual-Studio-Code-使用Git进行版本控制" class="headerlink" title="Visual Studio Code 使用Git进行版本控制"></a><a href="http://www.cnblogs.com/xuanhun/p/6019038.html?utm_source=tuicool&amp;utm_medium=referral" target="_blank" rel="external">Visual Studio Code 使用Git进行版本控制</a></h2><p>来自go语言中文网：</p>
+    <content type="html"><![CDATA[<h3 id="sublime-Text-3搭建GO开发环境"><a href="#sublime-Text-3搭建GO开发环境" class="headerlink" title="sublime Text 3搭建GO开发环境"></a>sublime Text 3搭建GO开发环境</h3><h4 id="首先是安装go"><a href="#首先是安装go" class="headerlink" title="首先是安装go"></a>首先是安装go</h4><hr>
+<ul>
+<li>golang官网下载地址：<a href="https://golang.org/dl/" target="_blank" rel="external">https://golang.org/dl/</a></li>
+<li>国内golang下载地址：<a href="http://golangtc.com/download" target="_blank" rel="external">http://golangtc.com/download</a></li>
+<li><strong>注意：以上请选择对应的版本进行下载，如：windows-64位 则，选择：windows-amd64.msi<br>如果是32位系统，则选择：windows-386.msi</strong></li>
+</ul>
+<h4 id="下载，安装，配置sublime-Text-3"><a href="#下载，安装，配置sublime-Text-3" class="headerlink" title="下载，安装，配置sublime Text 3"></a>下载，安装，配置sublime Text 3</h4><hr>
+<ol>
+<li>下载 Sublime Text 3,地址：<a href="http://www.sublimetext.com/" target="_blank" rel="external">http://www.sublimetext.com/</a></li>
+<li>下载好后，右键解压后，进入到Sublime Text3目录，双击sublime_text.exe 运行。就可以使用了。</li>
+<li>安装Package Control，在打开 Sublime Text 2以后，按下快捷键 Ctrl + `，打开命令窗行，｀这个按键在Tab键的上面，我刚开始还没找到，呵呵。输入以下内容，并回车：</li>
+</ol>
+<hr>
+<pre><code>import urllib.request,os; pf = &apos;Package Control.sublime-package&apos;; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), &apos;wb&apos;).write(urllib.request.urlopen( &apos;http://sublime.wbond.net/&apos; + pf.replace(&apos; &apos;,&apos;%20&apos;)).read())
+</code></pre><hr>
+<ol>
+<li>安装完成后，重启Sublime Text 3后，就可以发现在 Preferences菜单下，多出一个菜单项 Package Control。</li>
+<li>现在可以安装Gosublime插件了，按住Ctrl+Shilft+p会弹出一个对话框<img src="http://oihhszlnu.bkt.clouddn.com/gosublime/png/BVD%5D%25G0%29EVMBX6J26CSODJC.png" alt="Ctrl+Shilft+p"></li>
+<li>输入install回车弹出一个安装包的对话框.<img src="http://oihhszlnu.bkt.clouddn.com/gosublime/png/I$%7BEEJZ5C~W@PU%5B7L$QQCTP.png" alt="install"></li>
+<li>输入GoSublime选择GoSublime回车<br>ok，GoSublime安装完成。<h4 id="下载安装gocode"><a href="#下载安装gocode" class="headerlink" title="下载安装gocode"></a>下载安装gocode</h4></li>
+</ol>
+<hr>
+<ol>
+<li>下载安装gocode</li>
+</ol>
+<p>可以去github下载<a href="https://github.com/nsf/gocode.git（要安装google的git版本管理工具）,配置git环境变量：;C:\Program" target="_blank" rel="external">https://github.com/nsf/gocode.git（要安装google的git版本管理工具）,配置git环境变量：;C:\Program</a> Files\Git\bin;C:\Program Files\Git\libexec\git-core;</p>
+<p>打开控制台，输入以下内容：</p>
+<p>　　　　go get -u github.com/nsf/gocode</p>
+<p>　　　　go install github.com/nsf/gocode</p>
+<p>　　安装完成后，我们可以在 go/bin 目录下，发现多出了个 gocode 文件。（一定要放在bin目录下）</p>
+<ol>
+<li>修改GoSublime配置：在 Preferences菜单下，找到Package Settings，然后找到 GoSublime，再往下找到 Settings - Default。再打开的文件中，添加如下配置，并保存：<br><img src="http://images.cnitblog.com/blog/83792/201303/01113953-00765a6f242a431b9c738d2d6eb5aaab.png" alt="settings"></li>
+</ol>
+<p>好了，到目前为止，开发环境搭建完成。</p>
+<h3 id="sublime-text3的一些基本插件"><a href="#sublime-text3的一些基本插件" class="headerlink" title="sublime text3的一些基本插件"></a>sublime text3的一些基本插件</h3><h4 id="中文输入法的问题"><a href="#中文输入法的问题" class="headerlink" title="中文输入法的问题"></a>中文输入法的问题</h4><p>从Sublime Text的初版（1.0）到现在（3.0 3065），中文输入法（包括日文输入法）都有一个问题：输入框不跟随。<br>需要安装    ‘IMESupport’插件，之后重启Sbulime Text问题就解决了。</p>
+<h3 id="左侧文件夹"><a href="#左侧文件夹" class="headerlink" title="左侧文件夹"></a>左侧文件夹</h3><p>Sublime Text支持以文件为单位进行编辑，这个在编辑一个文件夹下的代码时，尤其有用。在’file’下’open Folder’:<br>你会发现左侧多了一个侧栏，这个侧栏列出了当前打开的文件和文件夹，使用’Ctrl + K,Ctrl + B’显示或者隐藏侧栏，使用’Ctrl + P’快速跳转到文件夹里的文件。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;Visual-Studio-Code中配置GO开发环境&quot;&gt;&lt;a href=&quot;#Visual-Studio-Code中配置GO开发环境&quot; class=&quot;headerlink&quot; title=&quot;Visual Studio Code中配置GO开发环境&quot;&gt;&lt;/a&gt;Visua
+      &lt;h3 id=&quot;sublime-Text-3搭建GO开发环境&quot;&gt;&lt;a href=&quot;#sublime-Text-3搭建GO开发环境&quot; class=&quot;headerlink&quot; title=&quot;sublime Text 3搭建GO开发环境&quot;&gt;&lt;/a&gt;sublime Text 3搭建GO开发
+    
+    </summary>
+    
+      <category term="工具" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="IDE" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7/IDE/"/>
+    
+    
+      <category term="golang-IDE" scheme="http://yoursite.com/tags/golang-IDE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Visual Studio Code中配置GO开发环境</title>
+    <link href="http://yoursite.com/2017/01/02/Visual%20Studio%20Code%E4%B8%AD%E9%85%8D%E7%BD%AEGO%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83-%E7%89%88%E6%9C%AC2/"/>
+    <id>http://yoursite.com/2017/01/02/Visual Studio Code中配置GO开发环境-版本2/</id>
+    <published>2017-01-02T15:50:38.000Z</published>
+    <updated>2017-01-29T13:54:30.864Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Visual-Studio-Code配置GO开发环境"><a href="#Visual-Studio-Code配置GO开发环境" class="headerlink" title="Visual Studio Code配置GO开发环境"></a>Visual Studio Code配置GO开发环境</h2><hr>
+<h2 id="参考一下文章："><a href="#参考一下文章：" class="headerlink" title="参考一下文章："></a>参考一下文章：</h2><p><a href="http://www.jianshu.com/p/35f8f57ab074" target="_blank" rel="external">在Deepin Linux上用Visual Studio Code配置GoLang开发环境</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;Visual-Studio-Code配置GO开发环境&quot;&gt;&lt;a href=&quot;#Visual-Studio-Code配置GO开发环境&quot; class=&quot;headerlink&quot; title=&quot;Visual Studio Code配置GO开发环境&quot;&gt;&lt;/a&gt;Visual S
     
     </summary>
     
@@ -359,7 +455,7 @@
     <link href="http://yoursite.com/2017/01/01/go-%E5%AF%BC%E8%88%AA/"/>
     <id>http://yoursite.com/2017/01/01/go-导航/</id>
     <published>2017-01-01T12:34:13.000Z</published>
-    <updated>2017-01-16T14:15:05.538Z</updated>
+    <updated>2017-01-16T14:15:05.000Z</updated>
     
     <content type="html"><![CDATA[<h4 id="社区"><a href="#社区" class="headerlink" title="[社区]"></a>[社区]</h4><p><a href="http://www.golangtc.com/" target="_blank" rel="external">golang中国</a>    /    <a href="http://studygolang.com" target="_blank" rel="external">go语言中文网</a>    /</p>
 <h4 id="教程"><a href="#教程" class="headerlink" title="[教程]"></a>[教程]</h4><p><a href="http://docscn.studygolang.com/doc/code.html" target="_blank" rel="external">中文版</a>    /    <a href="https://tour.go-zh.org/welcome/1" target="_blank" rel="external">GO指南</a>    /    <a href="http://docscn.studygolang.com/doc/effective_go.html" target="_blank" rel="external">高效使用GO</a>    /</p>
@@ -388,7 +484,7 @@
     <link href="http://yoursite.com/2016/12/25/GO%E8%AF%AD%E8%A8%80%E5%AE%89%E8%A3%85%E5%92%8C%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
     <id>http://yoursite.com/2016/12/25/GO语言安装和环境配置/</id>
     <published>2016-12-25T14:47:15.000Z</published>
-    <updated>2017-01-17T13:03:08.401Z</updated>
+    <updated>2017-01-28T10:01:14.749Z</updated>
     
     <content type="html"><![CDATA[<h4 id="GO语言的下载安装"><a href="#GO语言的下载安装" class="headerlink" title="GO语言的下载安装"></a>GO语言的下载安装</h4><hr>
 <p><a href="http://golang.org" target="_blank" rel="external">golang官方下载地址：</a></p>
@@ -427,7 +523,7 @@
       <category term="go语言" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/go%E8%AF%AD%E8%A8%80/"/>
     
     
-      <category term="gO语言" scheme="http://yoursite.com/tags/gO%E8%AF%AD%E8%A8%80/"/>
+      <category term="golnag" scheme="http://yoursite.com/tags/golnag/"/>
     
   </entry>
   
