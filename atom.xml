@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-02-02T12:30:19.858Z</updated>
+  <updated>2017-02-07T11:29:15.193Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,10 +20,10 @@
     <link href="http://yoursite.com/2017/02/02/golang%E8%B5%84%E6%96%99%E6%95%B4%E7%90%86/"/>
     <id>http://yoursite.com/2017/02/02/golang资料整理/</id>
     <published>2017-02-02T10:40:06.000Z</published>
-    <updated>2017-02-02T12:30:19.858Z</updated>
+    <updated>2017-02-07T11:29:15.193Z</updated>
     
     <content type="html"><![CDATA[<h1 id="入门资料整理"><a href="#入门资料整理" class="headerlink" title="入门资料整理"></a>入门资料整理</h1><h2 id="golang-web在线编辑器"><a href="#golang-web在线编辑器" class="headerlink" title="golang-web在线编辑器"></a>golang-web在线编辑器</h2><p><a href="https://wide.b3log.org/login" target="_blank" rel="external">wide</a> |</p>
-<h2 id="golang书籍"><a href="#golang书籍" class="headerlink" title="golang书籍"></a>golang书籍</h2><p><a href="https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md" target="_blank" rel="external">GO入门指南</a> | <a href="https://github.com/yidust/build-web-application-with-golang/blob/master/zh/preface.md" target="_blank" rel="external">GO语言教程</a> | <a href="https://github.com/yidust/golangman" target="_blank" rel="external">golangman</a>【是一个帮助具有其他语言开发经验的人快速上手的开源项目】| <a href="https://gobyexample.com/" target="_blank" rel="external">Go by Example</a> | <a href="http://tour.golangtc.com/welcome/1" target="_blank" rel="external">GO 指南</a> | <a href="http://godoc.golangtc.com/" target="_blank" rel="external">GoDoc</a> |</p>
+<h2 id="golang书籍"><a href="#golang书籍" class="headerlink" title="golang书籍"></a>golang书籍</h2><p><a href="https://github.com/Unknwon/the-way-to-go_ZH_CN/blob/master/eBook/directory.md" target="_blank" rel="external">GO入门指南</a> | <a href="https://github.com/yidust/build-web-application-with-golang/blob/master/zh/preface.md" target="_blank" rel="external">GO语言教程</a> | <a href="https://github.com/yidust/golangman" target="_blank" rel="external">golangman</a>【是一个帮助具有其他语言开发经验的人快速上手的开源项目】| <a href="https://gobyexample.com/" target="_blank" rel="external">Go by Example</a> |[<a href="http://gobyexample.everyx.in/" target="_blank" rel="external">Go by Example 中文</a>) | <a href="http://tour.golangtc.com/welcome/1" target="_blank" rel="external">GO 指南</a> | <a href="http://godoc.golangtc.com/" target="_blank" rel="external">GoDoc</a> |</p>
 <h2 id="网站教程"><a href="#网站教程" class="headerlink" title="网站教程"></a>网站教程</h2><p><a href="http://www.imooc.com/course/list?c=Go" target="_blank" rel="external">幕课网</a> |    <a href="http://edu.51cto.com/course/courseList/id-27.html" target="_blank" rel="external">51CTO</a> | <a href="https://www.shiyanlou.com/courses/?course_type=all&amp;tag=GO&amp;fee=all" target="_blank" rel="external">实验楼</a> | <a href="https://github.com/yidust/go-fundamental-programming" target="_blank" rel="external">go编程基础</a>| <a href="http://study.163.com/category/400000000146058" target="_blank" rel="external">网易云课堂</a> | <a href="https://search.bilibili.com/all?keyword=go%E8%AF%AD%E8%A8%80%E6%95%99%E7%A8%8B&amp;page=1&amp;order=totalrank" target="_blank" rel="external">哔哩哔哩</a> |</p>
 <p><a href="http://docscn.studygolang.com/" target="_blank" rel="external">官网中文版</a> | <a href="https://golang.org/doc/code.html" target="_blank" rel="external">环境搭建</a> | <a href="http://docscn.studygolang.com/doc/code.html" target="_blank" rel="external">中文版环境搭建</a> | <a href="https://tour.golang.org/welcome/1" target="_blank" rel="external">golang-tour</a> | <a href="https://tour.go-zh.org/welcome/1" target="_blank" rel="external">tour-中文版</a> | <a href="https://golang.org/doc/effective_go.html" target="_blank" rel="external">功效使用go</a> | <a href="https://golang.org/doc/effective_go.html" target="_blank" rel="external">高效使用go中文版</a> | </p>
 <p><strong>参考</strong>: <a href="https://771dian.com/p/portal/VJhVeydtg【go导航】" target="_blank" rel="external">https://771dian.com/p/portal/VJhVeydtg【go导航】</a></p>
@@ -144,7 +144,7 @@
     <link href="http://yoursite.com/2017/01/21/my-wiki/"/>
     <id>http://yoursite.com/2017/01/21/my-wiki/</id>
     <published>2017-01-21T10:48:40.000Z</published>
-    <updated>2017-01-31T12:49:11.927Z</updated>
+    <updated>2017-02-06T13:25:27.426Z</updated>
     
     <content type="html"><![CDATA[<p>注：以下资源搜集于互联网</p>
 <h1 id="web"><a href="#web" class="headerlink" title="web"></a>web</h1><h2 id="网址导航"><a href="#网址导航" class="headerlink" title="网址导航"></a>网址导航</h2><p><a href="http://ilxdh.com/" target="_blank" rel="external">龙轩导航</a> /  <a href="http://gufenso.coderschool.cn/" target="_blank" rel="external">谷粉搜导航</a>   /   <a href="http://lackar.com/aa/" target="_blank" rel="external">AnywhereAnything</a>   /  <a href="http://search.chongbuluo.com/" target="_blank" rel="external">虫部落*快搜</a></p>
@@ -169,7 +169,8 @@
 </ul>
 <hr>
 <ul>
-<li>天翼云：<a href="http://cloud.189.cn/" target="_blank" rel="external">http://cloud.189.cn/</a>  /   百度网盘：<a href="http://yun.baidu.com/" target="_blank" rel="external">http://yun.baidu.com/</a>   /  <h2 id="同步盘"><a href="#同步盘" class="headerlink" title="同步盘"></a>同步盘</h2><blockquote>
+<li>天翼云：<a href="http://cloud.189.cn/" target="_blank" rel="external">http://cloud.189.cn/</a>  /   百度网盘：<a href="http://yun.baidu.com/" target="_blank" rel="external">http://yun.baidu.com/</a>   /  </li>
+<li>天翼网盘直连解析：<a href="http://www.826v.com/" target="_blank" rel="external">http://www.826v.com/</a><h2 id="同步盘"><a href="#同步盘" class="headerlink" title="同步盘"></a>同步盘</h2><blockquote>
 <p><a href="https://www.resilio.com/individuals/" target="_blank" rel="external">resilio</a>[无需服务器的同步工具]  /   <a href="https://owncloud.org/" target="_blank" rel="external">owncloud</a>【介绍：<a href="http://www.appinn.com/owncloud-6/】" target="_blank" rel="external">http://www.appinn.com/owncloud-6/】</a></p>
 <h2 id="科学上网"><a href="#科学上网" class="headerlink" title="科学上网"></a>科学上网</h2></blockquote>
 </li>
@@ -177,7 +178,7 @@
 <hr>
 <ul>
 <li>windows: </li>
-<li>android:<br>  免费vpn: <a href="http://117.78.45.182:8090/webroot/download/vpn_info.html" target="_blank" rel="external">极光vpn</a><h2 id="vps"><a href="#vps" class="headerlink" title="vps"></a>vps</h2></li>
+<li>android:<br>  免费vpn: <a href="http://117.78.45.182:8090/webroot/download/vpn_info.html" target="_blank" rel="external">极光vpn</a> <a href="http://crossvpn.d.scjinlong.com/?lang=zh" target="_blank" rel="external">翻越vpn</a> <h2 id="vps"><a href="#vps" class="headerlink" title="vps"></a>vps</h2></li>
 </ul>
 <hr>
 <p><a href="http://ramnode.com/" target="_blank" rel="external">RamNode</a>  </p>
@@ -255,9 +256,9 @@
     <link href="http://yoursite.com/2017/01/08/go%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/"/>
     <id>http://yoursite.com/2017/01/08/go语言基础/</id>
     <published>2017-01-08T12:19:28.000Z</published>
-    <updated>2017-01-28T14:54:29.814Z</updated>
+    <updated>2017-02-04T14:54:03.364Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="go程序的一般结构"><a href="#go程序的一般结构" class="headerlink" title="go程序的一般结构"></a>go程序的一般结构</h3><ul>
+    <content type="html"><![CDATA[<h2 id="go程序的一般结构"><a href="#go程序的一般结构" class="headerlink" title="go程序的一般结构"></a>go程序的一般结构</h2><ul>
 <li>go程序是通过<strong>package</strong>来组织的</li>
 <li>只有<strong>package</strong>名称为<strong>main</strong>的包可以包含<strong>main</strong>函数</li>
 <li>一个可执行程序==有且仅有==一个main包</li>
@@ -269,86 +270,132 @@
 <li>通过==type==关键字进行结构（struct）或接口（interface）的声明</li>
 <li>通过==func==关键之来进行函数的声明</li>
 </ul>
-<h3 id="GO注释方法"><a href="#GO注释方法" class="headerlink" title="GO注释方法"></a>GO注释方法</h3><ul>
+<h2 id="GO注释方法"><a href="#GO注释方法" class="headerlink" title="GO注释方法"></a>GO注释方法</h2><ul>
 <li>// :单行注释</li>
 <li>/<em> </em>/ ：多行注释</li>
 </ul>
-<h3 id="可见性规则"><a href="#可见性规则" class="headerlink" title="可见性规则"></a>可见性规则</h3><ul>
+<h2 id="可见性规则"><a href="#可见性规则" class="headerlink" title="可见性规则"></a>可见性规则</h2><ul>
 <li>GO使用<strong>大小写</strong>来决定该 常量，变量，类型，接口，结构或函数 是否可以被外部包所调用：</li>
 <li><strong>函数名首字母</strong>： ==小写==，即为只允许包内使用。</li>
-<li><strong>函数名首字</strong>母： ==大写==，即为整个工作区都可以使用。<h3 id="GO基本类型"><a href="#GO基本类型" class="headerlink" title="GO基本类型"></a>GO基本类型</h3></li>
+<li><strong>函数名首字</strong>母： ==大写==，即为整个工作区都可以使用。<h2 id="GO基本类型和运算符"><a href="#GO基本类型和运算符" class="headerlink" title="GO基本类型和运算符"></a>GO基本类型和运算符</h2></li>
 </ul>
-<hr>
+<h3 id="布尔类型"><a href="#布尔类型" class="headerlink" title="布尔类型"></a>布尔类型</h3><p>例子：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">var b bool = true</div></pre></td></tr></table></figure>
+<p>布尔类型的值只可以是常量true或false。</p>
+<p>两个类型相同的值可以使用<strong>相等</strong><code>==</code>或者<strong>不等</strong><code>!=</code>运算符来进行比较。</p>
+<p><strong>相等</strong> 两边的值完全相同时，会返回<code>true</code>,负责返回<code>false</code>并且要在两个值的类型相同的情况下才可以使用。</p>
+<p>示例：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">var aVar = 10</div><div class="line">aVar == 5 -&gt; false</div><div class="line">aVar == 10 -&gt; true</div></pre></td></tr></table></figure>
+<p>不等运算符两边值不同的时候会返回<code>true</code>，负责返回<code>false</code>。</p>
+<p>示例：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">var aVar = 10</div><div class="line">aVar != 5 -&gt; true</div><div class="line">aVar != 10 -&gt; false</div></pre></td></tr></table></figure>
+<h3 id="逻辑运算符"><a href="#逻辑运算符" class="headerlink" title="逻辑运算符"></a>逻辑运算符</h3><p>非<code>!</code>,和<code>&amp;&amp;</code>,或<code>||</code></p>
+<p>注：和 <code>&amp;&amp;</code>、或 <code>||</code> 与相等 <code>==</code> 或不等 <code>!=</code> 属于二元运算符，而非 <code>!</code> 属于一元运算符。</p>
+<p>T代表符合的语句 F代表不符合的语句。</p>
+<p>非运算符：<code>!</code></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">!T -&gt; false</div><div class="line">!F -&gt; true</div></pre></td></tr></table></figure>
+<p>非运算符用于取得和布尔值相反的结果。</p>
+<p>和运算符：<code>&amp;&amp;</code></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">T &amp;&amp; T -&gt; true</div><div class="line">T &amp;&amp; F -&gt; false</div><div class="line">F &amp;&amp; T -&gt; false</div><div class="line">F &amp;&amp; F -&gt; false</div></pre></td></tr></table></figure>
+<p>只有当两边的值都为 true 的时候，和运算符的结果才是 true。</p>
+<p>或运算符：<code>||</code></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">T || T -&gt; true</div><div class="line">T || F -&gt; true</div><div class="line">F || T -&gt; true</div><div class="line">F || F -&gt; false</div></pre></td></tr></table></figure>
+<p>只有当两边的值都为 false 的时候，或运算符的结果才是 false，其中任意一边的值为 true 就能够使得该表达式的结果为 true。</p>
+<p>在 Go 语言中，&amp;&amp; 和 || 是具有快捷性质的运算符，当运算符左边表达式的值已经能够决定整个表达式的值的时候（&amp;&amp; 左边的值为 false，|| 左边的值为 true），运算符右边的表达式将不会被执行。利用这个性质，如果你有多个条件判断，应当将计算过程较为复杂的表达式放在运算符的右侧以减少不必要的运算。</p>
+<p>利用括号同样可以升级某个表达式的运算优先级。</p>
+<p>在格式化输出时，你可以使用 <code>%t</code> 来表示你要输出的值为布尔型。</p>
+<p>对于布尔值的好的命名能够很好地提升代码的可读性，例如以 <code>is</code> 或者 <code>Is</code> 开头的 <code>isSorted</code>、<code>isFinished</code>、<code>isVisivle</code>，使用这样的命名能够在阅读代码的获得阅读正常语句一样的良好体验，例如标准库中的 <code>unicode.IsDigit(ch)</code></p>
+<h3 id="数字类型"><a href="#数字类型" class="headerlink" title="数字类型"></a>数字类型</h3><h4 id="整型int和浮点型float"><a href="#整型int和浮点型float" class="headerlink" title="整型int和浮点型float"></a>整型int和浮点型float</h4><p>基于构架的类型，列如：int,uint</p>
+<p>这些类型的长度都是根据运行程序所在的操作系统类型所决定的：</p>
 <ul>
-<li>布尔型：bool<ul>
-<li>长度：1字节</li>
-<li>取值范围：true，false</li>
-<li>注意事项：不可以使用数字代表true或false</li>
+<li><code>int</code> 和 <code>uint</code> 在 32 位操作系统上，它们均使用 32 位（4 个字节），在 64 位操作系统上，它们均使用 64 位（8 个字节）。</li>
+<li><code>uintptr</code> 的长度被设定为足够存放一个指针即可。</li>
 </ul>
-</li>
-<li>整型：int/uint<ul>
-<li>根据运行平台可能为32位或64位</li>
-</ul>
-</li>
-<li>8位整型：int8/uint8<ul>
-<li>长度：1字节</li>
-<li>取值范围：-128~127 / 0~255</li>
-</ul>
-</li>
-<li>字节型：byte（uint8别名）</li>
-</ul>
-<h2 id=""><a href="#" class="headerlink" title=""></a><img src="http://i.imgur.com/WogWFT8.png" alt="Imgur"></h2><ul>
-<li>16位整型：int16/uint16<ul>
-<li>长度：2字节</li>
-<li>取值范围：-32768~ 32767/0~65535</li>
-</ul>
-</li>
-<li>32位整型：int32(runte) / uint32<ul>
-<li>长度：4字节</li>
-<li>取值范围：-2^32 / 2~2^32 / 2-1 / 0~2^32-1</li>
-</ul>
-</li>
-<li>64位整型： int64/uint64<ul>
-<li>长度：8字节</li>
-<li>取值范围：-2^64 / 2~2^64 / 2-1 / 0~2^64-1</li>
-</ul>
-</li>
-<li>浮点型：float32/float64<ul>
-<li>长度： 4/8字节</li>
-<li>小数位：精确到7/15/小数位</li>
-</ul>
-</li>
-</ul>
-<p><img src="http://i.imgur.com/vAuYxu6.png" alt="Imgur"></p>
+<p>与操作系统架构无关的类型都有固定的大小，并在类型的名称中就可以看出来：</p>
+<p>整数：</p>
 <ul>
-<li>复数：complex64/complex128<ul>
-<li>长度：8/16字节</li>
+<li>int8（-128 -&gt; 127）</li>
+<li>int16（-32768 -&gt; 32767）</li>
+<li>int32（-2,147,483,648 -&gt; 2,147,483,647）</li>
+<li>int64（-9,223,372,036,854,775,808 -&gt; 9,223,372,036,854,775,807）</li>
 </ul>
-</li>
-<li>足够保存指针的32位或64位整数型：uintptr</li>
-</ul>
-<p><img src="http://i.imgur.com/xvcYHn3.png" alt="Imgur"></p>
+<p>无符号整数：</p>
 <ul>
-<li>其他值类型：<ul>
-<li>array, struct, string</li>
+<li>uint8（0 -&gt; 255）</li>
+<li>uint16（0 -&gt; 65,535）</li>
+<li>uint32（0 -&gt; 4,294,967,295）</li>
+<li>uint64（0 -&gt; 18,446,744,073,709,551,615）</li>
 </ul>
-</li>
-<li><p>引用类型：</p>
+<p>浮点型（IEEE-754 标准）：</p>
 <ul>
-<li>slice, map, chan</li>
+<li>float32（+- 1e-45 -&gt; +- 3.4 * 1e38）</li>
+<li>float64（+- 5 <em> 1e-324 -&gt; 107 </em> 1e308）</li>
+</ul>
+<p>int 型是计算最快的一种类型。</p>
+<p>整型的零值为 0，浮点型的零值为 0.0。</p>
+<p>float32 精确到小数点后 7 位，float64 精确到小数点后 15 位。由于精确度的缘故，你在使用 == 或者 != 来比较浮点数时应当非常小心。你最好在正式使用前测试对于精确度要求较高的运算。</p>
+<p>你应该尽可能地使用 float64，因为 math 包中所有有关数学运算的函数都会要求接收这个类型。</p>
+<h3 id="格式化说明符"><a href="#格式化说明符" class="headerlink" title="格式化说明符"></a>格式化说明符</h3><p>在格式化字符串里，<code>%d</code> 用于格式化整数（<code>%x</code> 和 <code>%X</code> 用于格式化 16 进制表示的数字），<code>%g</code> 用于格式化浮点型（<code>%f</code> 输出浮点数，<code>%e</code> 输出科学计数表示法），<code>%0d</code> 用于规定输出定长的整数，其中开头的数字 0 是必须的。</p>
+<p><code>%n.mg</code> 用于表示数字 n 并精确到小数点后 m 位，除了使用 g 之外，还可以使用 e 或者 f，例如：使用格式化字符串 <code>%5.2e</code> 来输出 3.4 的结果为 <code>3.40e+00</code>。</p>
+<h3 id="位运算符"><a href="#位运算符" class="headerlink" title="位运算符"></a>位运算符</h3><p>位运算只能用于整数类型的变量，且需当它们拥有等长位模式时。</p>
+<p><code>%b</code> 是用于表示位的格式化标识符。</p>
+<p><strong>二元运算符</strong></p>
+<ul>
+<li><p>按位与 <code>&amp;</code>：</p>
+<p>对应位置上的值经过和运算结果，具体参见和运算符，第 4.5.1 节，并将 T（true）替换为 1，将 F（false）替换为 0</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">1 &amp; 1 -&gt; 1</div><div class="line">1 &amp; 0 -&gt; 0</div><div class="line">0 &amp; 1 -&gt; 0</div><div class="line">0 &amp; 0 -&gt; 0</div></pre></td></tr></table></figure>
+</li>
+<li><p>按位或 <code>|</code>：</p>
+<p>对应位置上的值经过或运算结果，具体参见或运算符，第 4.5.1 节，并将 T（true）替换为 1，将 F（false）替换为 0</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">1 | 1 -&gt; 1</div><div class="line">1 | 0 -&gt; 1</div><div class="line">0 | 1 -&gt; 1</div><div class="line">0 | 0 -&gt; 0</div></pre></td></tr></table></figure>
+</li>
+<li><p>按位异或 <code>^</code>：</p>
+<p>对应位置上的值根据以下规则组合：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">1 ^ 1 -&gt; 0</div><div class="line">1 ^ 0 -&gt; 1</div><div class="line">0 ^ 1 -&gt; 1</div><div class="line">0 ^ 0 -&gt; 0</div></pre></td></tr></table></figure>
+</li>
+<li><p>位清除 <code>&amp;^</code>：将指定位置上的值设置为 0。</p>
+</li>
+</ul>
+<p><strong>一元运算符</strong></p>
+<ul>
+<li><p>按位补足 <code>^</code>：</p>
+<p>该运算符与异或运算符一同使用，即 <code>m^x</code>，对于无符号 x 使用“全部位设置为 1”，对于有符号 x 时使用 <code>m=-1</code>。例如：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">^2 = ^10 = -01 ^ 10 = -11</div></pre></td></tr></table></figure>
+</li>
+<li><p>位左移 <code>&lt;&lt;</code>：</p>
+<ul>
+<li><p>用法：<code>bitP &lt;&lt; n</code>。</p>
+</li>
+<li><p><code>bitP</code> 的位向左移动 n 位，右侧空白部分使用 0 填充；如果 n 等于 2，则结果是 2 的相应倍数，即 2 的 n 次方。例如：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">1 &lt;&lt; 10 // 等于 1 KB</div><div class="line">1 &lt;&lt; 20 // 等于 1 MB</div><div class="line">1 &lt;&lt; 30 // 等于 1 GB</div></pre></td></tr></table></figure>
+</li>
 </ul>
 </li>
-<li><p>接口类型：inteface</p>
-</li>
-<li>函数类型：func</li>
+<li><p>位右移 <code>&gt;&gt;</code>：</p>
+<ul>
+<li>用法：<code>bitP &gt;&gt; n</code>。</li>
+<li><code>bitP</code> 的位向右移动 n 位，左侧空白部分使用 0 填充；如果 n 等于 2，则结果是当前值除以 2 的 n 次方。</li>
 </ul>
-<h3 id="类型零值"><a href="#类型零值" class="headerlink" title="类型零值"></a>类型零值</h3><hr>
-<p>零值是变量被声明为某种类型后的默认值，通常情况下值类型的默认值为0，bool为false，string为空字符串。</p>
+</li>
+</ul>
+<p>当希望把结果赋值给第一个操作数时，可以简写为 <code>a &lt;&lt;= 2</code> 或者 <code>b ^= a &amp; 0xffffffff</code>。</p>
+<p><strong>位左移常见实现存储单位的用例</strong></p>
+<p>使用位左移与 iota 计数配合可优雅地实现存储单位的常量枚举：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div></pre></td><td class="code"><pre><div class="line">type ByteSize float64</div><div class="line">const (</div><div class="line">    _ = iota // 通过赋值给空白标识符来忽略值</div><div class="line">    KB ByteSize = 1&lt;&lt;(10*iota)</div><div class="line">    MB</div><div class="line">    GB</div><div class="line">    TB</div><div class="line">    PB</div><div class="line">    EB</div><div class="line">    ZB</div><div class="line">    YB</div><div class="line">)</div></pre></td></tr></table></figure>
+<p><strong>在通讯中使用位左移表示标识的用例</strong></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">type BitFlag int</div><div class="line">const (</div><div class="line">    Active BitFlag = 1 &lt;&lt; iota // 1 &lt;&lt; 0 == 1</div><div class="line">    Send // 1 &lt;&lt; 1 == 2</div><div class="line">    Receive // 1 &lt;&lt; 2 == 4</div><div class="line">)</div><div class="line"></div><div class="line">flag := Active | Send // == 3</div></pre></td></tr></table></figure>
+<h3 id="逻辑运算符-1"><a href="#逻辑运算符-1" class="headerlink" title="逻辑运算符"></a>逻辑运算符</h3><p>Go 中拥有以下逻辑运算符：==、!=（第 4.5.1 节）、&lt;、&lt;=、&gt;、&gt;=。</p>
+<p>它们之所以被称为逻辑运算符是因为它们的运算结果总是为布尔值 bool。例如：</p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">b3:= 10 &gt; 5 // b3 is true</div></pre></td></tr></table></figure>
+<h3 id="算数运算符"><a href="#算数运算符" class="headerlink" title="算数运算符"></a>算数运算符</h3><p>常见可用于整数和浮点数的二元运算符有 +、-、* 和 /。</p>
+<p>/ 对于整数运算而言，结果依旧为整数，例如：9 / 4 -&gt; 2。</p>
+<p>取余运算符只能作用于整数：9 % 4 -&gt; 1。</p>
+<p>整数除以 0 可能导致程序崩溃，将会导致运行时的恐慌状态</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;go程序的一般结构&quot;&gt;&lt;a href=&quot;#go程序的一般结构&quot; class=&quot;headerlink&quot; title=&quot;go程序的一般结构&quot;&gt;&lt;/a&gt;go程序的一般结构&lt;/h3&gt;&lt;ul&gt;
+      &lt;h2 id=&quot;go程序的一般结构&quot;&gt;&lt;a href=&quot;#go程序的一般结构&quot; class=&quot;headerlink&quot; title=&quot;go程序的一般结构&quot;&gt;&lt;/a&gt;go程序的一般结构&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;go程序是通过&lt;strong&gt;package&lt;/strong&gt;来组织的&lt;
     
     </summary>
